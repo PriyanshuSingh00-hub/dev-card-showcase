@@ -1520,6 +1520,8 @@
   }
 },
 {
+  "title": "Productivity Self-Assessment Quiz 📊",
+  "description": "An interactive quiz that helps users evaluate productivity habits and identify areas for improvement.",
   "title": "Study Breaks & Focus Techniques 🧠",
   "description": "A practical guide that teaches effective study breaks and focus techniques to improve learning efficiency.",
   "tags": [
@@ -1553,6 +1555,10 @@
     "CSS",
     "JavaScript",
     "Productivity",
+    "Self Assessment"
+  ],
+  "links": {
+    "live": "./projects/productivity-self-assessment-quiz/index.html"
     "Student Wellness"
   ],
   "links": {
