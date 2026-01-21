@@ -4235,6 +4235,25 @@
         "name": "Amballa Sneha",
         "github": "https://github.com/Sneha-Amballa"
     }
+},
+{
+  "title": "instinctengine",
+  "description": "instinctengine is an interactive simulation that demonstrates instinct-based decision making. It shows how simple reactive rules can produce complex behavior using pure HTML, CSS, and JavaScript.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Simulation",
+    "Behavior"
+  ],
+  "links": {
+    "live": "./projects/instinctengine/index.html"
+  },
+  "author": {
+    "name": "PavanKarthik",
+    "github": "https://github.com/pavanakarthik12"
+  }
 }
+
 
 ]
