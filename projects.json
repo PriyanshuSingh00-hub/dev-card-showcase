@@ -3734,6 +3734,24 @@
         }
     },
 
+    {
+        "title": "Bubble Pop Blitz",
+        "description": "Timed click-to-pop accuracy challenge where you pop as many drifting bubbles as you can before the 30-second timer ends.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game"
+        ],
+        "links": {
+            "live": "./projects/bubble-pop-blitz/index.html"
+        },
+        "author": {
+            "name": "Gupta-02",
+            "github": "https://github.com/Gupta-02"
+        }
+    },
+
 {
   "title": "Digital Burnout Awareness 🔥",
   "description": "An awareness page that explains digital burnout, its symptoms, causes, and simple prevention tips.",
