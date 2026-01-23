@@ -4685,5 +4685,22 @@
         "name": "Gupta-02",
         "github": "https://github.com/Gupta-02"
     }
+},
+{
+    "title": "Tower Defense Mini",
+    "description": "A bite-sized tower defense game where you place turrets to stop creeps on a short path. Features few turret types, short waves, and upgrade paths. Mouse build/upgrade controls.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Game"
+    ],
+    "links": {
+        "live": "./projects/tower-defense-mini/index.html"
+    },
+    "author": {
+        "name": "Gupta-02",
+        "github": "https://github.com/Gupta-02"
+    }
 }
 ]
