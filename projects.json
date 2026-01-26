@@ -253,11 +253,6 @@
             "live": "./projects/number-system-converter/"
         },
         "author": {
-            "name": "Anvesha",
-            "github": "https://github.com/your-github-username"
-            "live": "./projects/Guess-The-Word/index.html"
-        },
-        "author": {
             "name": "Omkar",
             "github": "https://github.com/omkarhole"
         }
@@ -3354,7 +3349,12 @@
     "links": {
       "live": "./projects/advanced-reaction-time/index.html"
     },
-    {
+    "author": {
+        "name": "Omkar",
+        "github": "https://github.com/omkarhole"
+    }
+},
+{
         "title": "Weather Sculprate Game",
         "description": "An engaging weather-themed game where players sculpt clouds to match given weather conditions. Features multiple levels, scoring, and interactive gameplay.",
         "tags": [
@@ -5919,6 +5919,13 @@
     ],
     "links": {
         "live": "./projects/chromawave/index.html"
+    },
+    "author": {
+        "name": "PavanKarthik",
+        "github": "https://github.com/pavanakarthik12"
+    }
+},
+{
     "title" : "Businessjs",
     "description": "A JavaScript library for creating business-style visualizations. It provides a simple and intuitive way to define and work with business-style visualizations in your JavaScript applications.",
     "tags": [
@@ -5928,7 +5935,11 @@
     ],
     "links": {
         "live": "./projects/businessjs/index.html"
-    
+    },
+    "author": {
+        "name": "PavanKarthik",
+        "github": "https://github.com/pavanakarthik12"
+    }
 },
 {
     "title": "Rocketjs",
@@ -5956,6 +5967,13 @@
     ],
     "links": {
         "live": "./projects/ghostnet/index.html"
+    },
+    "author": {
+        "name": "PavanKarthik",
+        "github": "https://github.com/pavanakarthik12"
+    }
+},
+{
     "title" : "Typemorph",
     "description": "A JavaScript library for creating typewriter-style animations. It provides a simple and intuitive way to define and work with typewriter-style animations in your JavaScript applications.",
     "tags": [
@@ -5965,6 +5983,13 @@
     ],
     "links": {
         "live": "./projects/typemorph/index.html"
+    },
+    "author": {
+        "name": "PavanKarthik",
+        "github": "https://github.com/pavanakarthik12"
+    }
+},
+{
     "title" :"CssPhysicslab",
     "description": "A JavaScript library for creating physics-based animations using CSS. It provides a simple and intuitive way to define and work with physics-based animations in your JavaScript applications.",
     "tags": [
@@ -5978,6 +6003,9 @@
     "author": {
         "name": "PavanKarthik",
         "github": "https://github.com/pavanakarthik12"
+    }
+},
+{
     "title": "Skyrail Surfer (3D)",
     "description": "Grind and jump across floating rails high above the clouds in this fast-paced 3D game. Auto-grind rails, manual jumps, mid-air tricks for score.",
     "tags": [
